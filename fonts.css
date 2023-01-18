@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "HummingbirdClub";
+   src: url("fonts/HummingbirdClub.woff") format("woff"), url("fonts/HummingbirdClub.eot") format("embedded-opentype"), url("fonts/HummingbirdClub.otf") format("opentype");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Mitr Medium";
+   src: url("fonts/Mitr Medium.woff") format("woff"), url("fonts/Mitr Medium.eot") format("embedded-opentype"), url("fonts/Mitr Medium.ttf") format("truetype"), url("fonts/Mitr Medium.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
